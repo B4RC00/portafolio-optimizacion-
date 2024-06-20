@@ -1,9 +1,13 @@
+body{
+    background-color: #0069A3;
+}
+
 h1{
      font-family: "Rye", serif;
      font-weight: 400;
   font-style: normal;
     color: #4e5d00;
-    background-color: #0069A3 ;
+   
 
 }
 
